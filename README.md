@@ -3,21 +3,21 @@
 ## Web Mirroring Using GNU Wget (Task T11)
 
 **Student Name:** Dyuthi S Sarath  
-**Roll Number:** 11[cite: 29]  
-**Course Outcome:** CO3 (Experiment 5b: Task T11)[cite: 29]  
-**Module:** Module 2 — Application Layer Protocols, Network Reconnaissance, and Web Content Mirroring[cite: 29]  
+**Roll Number:** 11 
+**Course Outcome:** CO3 (Experiment 5b: Task T11)
+**Module:** Module 2 — Application Layer Protocols, Network Reconnaissance, and Web Content Mirroring  
 
 ---
 
 ## 1. Aim
-To create a local mirror of a target website (`http://example.com`), save all assets and recursively linked resources to a local directory, and verify offline functionality via a web browser under disconnected network conditions[cite: 29].
+To create a local mirror of a target website (`http://example.com`), save all assets and recursively linked resources to a local directory, and verify offline functionality via a web browser under disconnected network conditions.
 
 ---
 
 ## 2. Tools & Environment
-- **Utility:** GNU Wget (version 1.21.3)[cite: 29]
-- **Web Browser:** Mozilla Firefox 115.0+ ESR[cite: 29]
-- **Environment:** Kali Linux / Windows (WSL2 / Git Bash)[cite: 29]
+- **Utility:** GNU Wget (version 1.21.3)
+- **Web Browser:** Mozilla Firefox 115.0+ ESR
+- **Environment:** Kali Linux / Windows (WSL2 / Git Bash)
 
 ---
 
