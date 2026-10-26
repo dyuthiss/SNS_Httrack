@@ -4,7 +4,7 @@
 
 **Student Name:** Dyuthi S Sarath  
 **Roll Number:** 11 
-**Course Outcome:** CO3 (Experiment 5b: Task T11)
+**Course Outcome:** CO2 (Experiment 5b: Task T11)
 **Module:** Module 2 — Application Layer Protocols, Network Reconnaissance, and Web Content Mirroring  
 
 ---
